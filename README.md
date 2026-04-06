@@ -1,6 +1,6 @@
 # 🌌 NanoLayer: Text Overlay Studio
 
-NanoLayer is a vibe coded project that is a modern, web-based tool for creating beautiful text overlays on images. It combines a sleek user interface with AI-powered features, leveraging the Google Gemini API to generate contextually relevant text and suggest optimal layout positions based on your images.
+NanoLayer, a vibe coded project that is a modern, web-based tool for creating beautiful text overlays on images. It combines a sleek user interface with AI-powered features, leveraging the Google Gemini API to generate contextually relevant text and suggest optimal layout positions based on your images.
 
 ## ✨ Features
 
